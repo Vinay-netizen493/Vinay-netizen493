@@ -24,3 +24,10 @@
 
 ### 🚴‍♂️_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-netizen493&show_icons=true&theme=radical&color=blue" width="400">
+
